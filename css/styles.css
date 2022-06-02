@@ -1,0 +1,22 @@
+.body{
+  align-items: center;
+}
+
+.border{
+background-color: aquamarine;
+width: relative;
+
+}
+
+.title {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.title:hover {
+  text-decoration: underline;
+}
+
+.description {
+  display: none;
+}
