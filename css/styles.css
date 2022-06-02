@@ -19,7 +19,8 @@ width: relative;
 
 .description {
   display: none;
+  cursor: pointer;
+  color: #0088cc;
 }
-#bools{
-  display:contents;
 }
+
