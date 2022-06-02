@@ -20,3 +20,6 @@ width: relative;
 .description {
   display: none;
 }
+#bools{
+  display:contents;
+}
